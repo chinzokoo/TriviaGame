@@ -42,3 +42,17 @@ body {
 #timer-container, #game-statistics, #game-feedback-container, #question-container, #answer-choices-container {
     visibility: hidden;
 }
+/** Footer Info **/
+footer{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    clear:both;
+    width:100%;
+    background-color: #666666;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+    border-top: 4px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+}
+/** End of Footer info **/
